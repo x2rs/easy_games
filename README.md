@@ -1,5 +1,7 @@
 # easy_games
 ## easy_snake
+**平台：Windows**
+
 C++ 贪吃蛇大作业
 
 地图分为有边界和无边界
